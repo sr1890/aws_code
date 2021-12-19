@@ -1,3 +1,3 @@
-Ch-1: aws three-tier architecture using terraform <br />
-Ch-2: AWS metadata <br />
-Ch-3: nested objects using python
+Challenge-1: aws three-tier architecture using terraform <br />
+Challenge-2: AWS metadata <br />
+Challenge-3: nested objects using python
